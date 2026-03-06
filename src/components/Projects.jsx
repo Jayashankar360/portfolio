@@ -23,7 +23,7 @@ function Projects() {
       desc: "Modern animated portfolio showcasing skills and projects with smooth transitions and responsive design.",
       tech: "React, Tailwind CSS, Framer Motion",
       live: "",
-      github: "",
+      github: "https://github.com/Jayashankar360/portfolio.git",
     },
   ];
 
